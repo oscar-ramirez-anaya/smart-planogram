@@ -7,8 +7,8 @@ semana de entrega.
 |---|---|---|
 | 1 | Planteamiento del proyecto | [`semana01_planteamiento/`](semana01_planteamiento/) |
 | 2 | Avance 0. Propuesta de proyecto y firma de convenios | [`semana02_avance0/`](semana02_avance0/) |
-| 3 | Avance 1. Análisis exploratorio del corpus visual y especificación digital del planograma | pendiente |
-| 4 | Avance 2. Protocolo de anotación, taxonomía de SKU y estrategia de aumentación | pendiente |
+| 3 | Avance 1. Análisis exploratorio de datos | [`semana03_avance1/`](semana03_avance1/) |
+| 4 | Avance 2. Ingeniería de características | [`semana04_avance2/`](semana04_avance2/) |
 | 5 | Avance 3. Línea base con detector preentrenado y conciliación geométrica | pendiente |
 | 6 | Avance 4. Comparativa de arquitecturas de detección con ajuste fino | pendiente |
 | 7 | Avance 5. Pipeline integrado y evaluado | pendiente |
@@ -22,3 +22,6 @@ Cada entregable conserva su fuente editable junto al PDF final, de modo que corr
 regenerar el documento sea reproducible. El del planteamiento se escribe en HTML con hoja de
 estilo de impresión y se renderiza a PDF; las instrucciones están en
 [`semana01_planteamiento/README.md`](semana01_planteamiento/README.md).
+
+Los avances 1 y 2 incluyen además la libreta ejecutada que exige el curso. Las reglas para publicar
+resultados derivados de los datos de Bnext están en [`POLITICA_DATOS.md`](POLITICA_DATOS.md).

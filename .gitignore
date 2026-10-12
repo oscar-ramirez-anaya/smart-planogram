@@ -29,6 +29,19 @@ credentials.json
 service-account*.json
 secrets/
 
+# ---- Resultados de experimentos (se quedan en el servidor de Bnext) ----
+outputs/
+results/
+artifacts/
+reports_private/
+*.csv
+*.parquet
+*.zip
+*.npy
+*.npz
+*.pkl
+*.joblib
+
 # ---- Artefactos de modelos ----
 *.pt
 *.pth
