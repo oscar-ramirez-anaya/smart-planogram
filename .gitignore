@@ -67,3 +67,6 @@ env/
 Thumbs.db
 .idea/
 .vscode/
+
+# Recursos gráficos institucionales de los entregables (no son datos de Bnext)
+!docs/*/assets/*.png
