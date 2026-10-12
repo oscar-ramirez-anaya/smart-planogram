@@ -6,7 +6,7 @@ semana de entrega.
 | Semana | Entregable | Carpeta |
 |---|---|---|
 | 1 | Planteamiento del proyecto | [`semana01_planteamiento/`](semana01_planteamiento/) |
-| 2 | Avance 0. Propuesta de proyecto y firma de convenios | pendiente |
+| 2 | Avance 0. Propuesta de proyecto y firma de convenios | [`semana02_avance0/`](semana02_avance0/) |
 | 3 | Avance 1. Análisis exploratorio del corpus visual y especificación digital del planograma | pendiente |
 | 4 | Avance 2. Protocolo de anotación, taxonomía de SKU y estrategia de aumentación | pendiente |
 | 5 | Avance 3. Línea base con detector preentrenado y conciliación geométrica | pendiente |
